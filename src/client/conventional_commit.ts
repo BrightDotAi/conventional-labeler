@@ -13,6 +13,7 @@ export class ConventionalCommit {
     test: "test",
     chore: "chore",
     build: "build",
+    ci: "ci",
   };
 
   /**
